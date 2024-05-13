@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin/
+
+Sitemap: https://decaturgaragedoor/sitemap.xml
+Sitemap: https://decaturgaragedoor/blog_sitemap.xml
